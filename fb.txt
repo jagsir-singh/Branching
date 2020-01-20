@@ -1,0 +1,23 @@
+using NoorTech.Core.ModelBase.Common;
+
+namespace NoorTech.Core.ModelMK.Common
+{
+    public class Common: CCommonBase
+    {
+    }
+
+    public class DDL:CDDLBase
+    {
+    }
+
+        
+    public struct FileIndentity
+    {
+        public static string MK_XML_NameSpace = @"http://www.modernkitchen.ca//mkSoft";
+        //public static string PaymentModes = CommonHandler.GetBaseUrl() + @"\AppData\Misc\PaymentModes.xml";
+        //public static string JobTypes = CommonHandler.GetBaseUrl() + @"\AppData\Misc\JobTypes.xml";
+        //public static string PermanentJobs = CommonHandler.GetBaseUrl() + @"\AppData\Jobs\PermanentJobs.xml";
+        //public static string ShopEstimates = CommonHandler.GetBaseUrl() + @"\AppData\Jobs\ShopEstimates.xml";
+    }
+
+}
