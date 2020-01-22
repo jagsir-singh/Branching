@@ -8,6 +8,7 @@ namespace NoorTech.Core.ModelMK.Common
 
     public class DDL:CDDLBase
     {
+	// Changes from local
     }
 
         
