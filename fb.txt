@@ -4,13 +4,10 @@ namespace NoorTech.Core.ModelMK.Common
 {
     public class Common: CCommonBase
     {
-    // only remote comment
     }
 
     public class DDL:CDDLBase
     {
-    // This is from remote
-    // lets make another commit from remote
     }
 
         
