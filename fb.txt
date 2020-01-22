@@ -5,12 +5,14 @@ namespace NoorTech.Core.ModelMK.Common
     public class Common: CCommonBase
     {
     // Only remote
+	// Only Local
     }
 
     public class DDL:CDDLBase
     {
     // Changes from Remote
 	// Changes from local
+	// It worked before
     }
 
         
