@@ -5,6 +5,7 @@ namespace NoorTech.Core.ModelMK.Common
     public class Common: CCommonBase
     {
     // Only remote
+    // Lets have fun - remote
     }
 
     public class DDL:CDDLBase
