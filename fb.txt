@@ -10,6 +10,7 @@ namespace NoorTech.Core.ModelMK.Common
     public class DDL:CDDLBase
     {
     // This is from remote
+    // lets make another commit from remote
     }
 
         
